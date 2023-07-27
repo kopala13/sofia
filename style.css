@@ -1,0 +1,45 @@
+body{background-image:url("https://scontent.ftbs4-2.fna.fbcdn.net/v/t1.15752-9/358999779_280867067952749_3286842464387963034_n.jpg?_nc_cat=101&cb=99be929b-59f725be&ccb=1-7&_nc_sid=ae9488&_nc_ohc=8o0YURyJCOgAX8GnCNn&_nc_ht=scontent.ftbs4-2.fna&oh=03_AdRe_ZK5XaTZ88BkWNVWE70tA1Upyx_9t5FUkhOLXBCpkA&oe=64D4F2E9")}
+
+H1,p,ol,br,ul,a{color:white;}
+
+
+ H1{font-size: 60px;}
+
+
+ div {vertical-align: top;}
+
+ ol,:hover{
+    font-size: 20px;
+ }
+ .pic{width: 25px;}
+
+ .pic:hover{
+    width: 200px;
+    height:100px
+ }
+  ul,:hover{
+    font-size: 20px;
+  }
+  h1:hover{
+   font-size:80px;
+   transition:1s;
+
+  }
+  footer a{
+   border:3px solid white;
+   border-radius: 4px;
+   text-align: center;
+  }
+  body{
+   text-align: center;
+  }
+  footer a:hover{
+   color:black;
+   background-color: white;
+   transition:1s;
+   width:20%;
+  }
+  ol li:hover{
+   transition:1s;
+   font-size: 20px;
+  }
