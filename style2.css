@@ -1,0 +1,83 @@
+body{background: radial-gradient(ellipse at top, #9d5f5f, transparent),            radial-gradient(ellipse at bottom, #d0a967, transparent);
+text-align: center;
+}
+h1{font-size:60px;
+    color: white;
+   
+   }
+
+h1:hover{color:white;
+transition: 1s color linear;}
+
+
+
+.fdiv:hover{width: 512px;
+    height: 349px;
+        display: inline-block;
+    opacity:1;
+    box-shadow:10px 10px 5 0 rgb(241, 235, 235);
+transition: 1s box-shadow linear; }
+ 
+.fdiv{  width: 512px;
+    height: 349px;
+        background:url("https://lh6.ggpht.com/_5Uli24xn-HQ/R_fPeSbtx3I/AAAAAAAAA2s/rPa6EQUgbR8/%D0%9F%D0%B8%D1%86%D1%83%D0%BD%D0%B4%D0%B0+%D0%B2%D0%B8%D0%B4+%D1%81+%D0%BC%D0%BE%D1%80%D1%8F.jpg") no-repeat;
+        display: inline-block;
+        opacity:0.5;}
+
+.sdiv:hover{width: 512px;
+    height: 349px;
+    opacity:1;}
+  
+.sdiv{  width: 512px;
+    height: 349px;
+        background:url("https://miro.medium.com/max/1104/1*EgHbZL9frXR195Z4DPClpQ.jpeg") no-repeat;
+        display: inline-block;
+        opacity:0.5;}
+
+p,a{color:white}
+
+.pic{
+    width: 512px;
+    height: 349px;
+    opacity:0.5;}
+
+.pic:hover{
+    opacity:1;
+    width: 512px;
+    height: 349px;
+}
+.picf{
+    width: 320px;
+    height:349px;
+    opacity:0.5;}
+
+.picf:hover{
+    opacity:1;
+    width: 320px;
+    height: 349px;
+}
+header a{
+    border:5px solid white;
+    border-radius: 6px;
+    font-size:25px;
+text-decoration: none;
+float:left;}
+p:hover{
+    font-size: 22px;
+    transition: 1s;
+    
+}
+h1:hover{
+    font-size: 80px;
+    transition:1s;
+    
+
+}
+header a{
+    float:left;
+}
+header a{
+    border:5px solid white;
+    border-radius: 6px;
+    font-size:25px;
+text-decoration: none;}
